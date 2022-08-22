@@ -1,0 +1,8 @@
+# Steps to Download tomcat-10 version
+
+wget https://dlcdn.apache.org/tomcat/tomcat-10/v10.1.0-M17/bin/apache-tomcat-10.1.0-M17.tar.gz
+tar -xvzf apache-tomcat-10.1.0-M17.tar.gz
+mv apache-tomcat-10.1.0-M17 apache-tomcat10
+rm -rf apache-tomcat-10.1.0-M17.tar.gz
+
+# These Steps download tomcat version 10.1.0-M17 particularly.
